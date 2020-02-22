@@ -29,12 +29,7 @@
                 "glob": "**/*.svg",
                 "input": "node_modules/ionicons/dist/ionicons/svg",
                 "output": "./svg"
-              },
-			  {
-				"glob": "_redirects",
-				"input": "src/_redirects",
-				"output": "/"
-			  }
+              }
             ],
             "styles": [
               {
